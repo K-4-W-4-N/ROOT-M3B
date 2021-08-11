@@ -1,19 +1,7 @@
-<p>
-   <img src="/banner.png" alt="banner-root" border="0" width="100%">
-</p>
-
 ### <div align="center">🤖 Hello World, I'm ROOTM3B! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></div>
 
-<hr>
-
-<p width="25%" align="center">
-Hi, I'm <strong>Kawan</strong>, but you can call me <strong>ROOT</strong>. 
-</p>
 <p align="center">
-I am a Brazilian <strong>Full Stack Developer</strong>, <strong>17 years old</strong> and <strong>7 years of coding</strong>.
-</p>
-<p align="center">
-𝞹 <strong>Math lover</strong> 𝞹 <br> 👽 <strong>technology and security</strong> 👽 <br> ♟️ <strong>chess player</strong> ♟️
+   <img src="https://i.imgur.com/ZcxGj98.png" alt="banner-root" border="0" width="50%">
 </p>
 
 <hr>
@@ -51,7 +39,7 @@ I am a Brazilian <strong>Full Stack Developer</strong>, <strong>17 years old</st
 
 <hr>
 
-<p align="center"><strong>Contato</strong></p>
+<p align="center"><strong>Contact</strong></p>
 
 <p align="center">
 <a target="_blank" href="mailto:k4w4ndu4rt3@gmail.com">
