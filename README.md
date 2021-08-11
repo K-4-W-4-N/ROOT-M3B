@@ -31,8 +31,8 @@
 <br>
 
 <div style="display: inline" align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ROOT-M3B&show_icons=true&theme=radical" alt="Kawan"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROOT-M3B&layout=compact&theme=radical"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ROOT-M3B&show_icons=true&theme=radical" alt="Kawan"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROOT-M3B&layout=compact&theme=radical"/>
 </div>
 
 <hr>
