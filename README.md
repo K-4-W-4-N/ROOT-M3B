@@ -1,8 +1,8 @@
 ### <div align="center">🤖 Hello World, I'm ROOTM3B! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></div>
 
-<p align="center">
+<div align="center">
    <img src="https://imgur.com/pZlfWTs.png" alt="banner-root" border="0" width="60%">
-</p>
+</div>
 
 <hr>
 
@@ -19,22 +19,21 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/root-m3b/root-m3b/blob/master/snake-stats.svg)
 </div>
 
 <hr>
 
-<p align="center">
+<div align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
-</p>
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ROOT-M3B&show_icons=true&theme=radical" alt="Kawan"/>
-</p>
+<br>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROOT-M3B&layout=compact&theme=radical" />
-</p>
+<div style="display: inline" align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ROOT-M3B&show_icons=true&theme=radical" alt="Kawan"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROOT-M3B&layout=compact&theme=radical"/>
+</div>
 
 <hr>
 
