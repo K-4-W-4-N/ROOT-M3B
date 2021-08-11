@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=orange">
 <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=cyan">
 <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=blue">
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
