@@ -41,12 +41,12 @@
 
 <p align="center"><strong>Contact</strong></p>
 
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5586981213040">
+  <img align="center" alt="Discord" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 <p align="center">
 <a target="_blank" href="mailto:k4w4ndu4rt3@gmail.com">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-   
-<a target="_blank" href="Root#5556">
-  <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
