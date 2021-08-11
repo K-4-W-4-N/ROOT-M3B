@@ -8,20 +8,20 @@
 
 <p align="center"><strong>Languages and Tools</strong></p>
 
-<p align="center">
-<img align="center" src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/main/images/vscode.png' width='30'/> 
-<img align="center" src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/2a632e1e5bb77aac66caa22263b5bebf33824bce/images/html.svg' width='30'/> 
-<img align="center" src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/2a632e1e5bb77aac66caa22263b5bebf33824bce/images/css.svg' width='30'/> 
-<img align="center" src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/2a632e1e5bb77aac66caa22263b5bebf33824bce/images/js.svg' height='30'/> 
-<img align="center" src = 'https://camo.githubusercontent.com/5f199ce2d9e9cf6aed9696cda96b3de0dfa8900c165104a51e886289e12c4789/68747470733a2f2f692e6962622e636f2f7656786d794e322f6e6f64652e706e67' width='30'/>
-<img align="center" src = 'https://camo.githubusercontent.com/1642c5f39b7f167c07f8eae813d365681abb121bd264d310cfa5ac6b1c438691/68747470733a2f2f692e6962622e636f2f3452484d6d4c512f72656163742e706e67' width='30'/>
-<img align="center" src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/ae304581828fd3cbf2dfe1c202c791b8d312f678/images/sql.svg' width='30'/>
-<img align="center" src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/b2ba4ef85dcb7a18e7ab5538db7785f15f9f43cd/images/mongodb.svg' width='30'/>
-<img align="center" src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/b2ba4ef85dcb7a18e7ab5538db7785f15f9f43cd/images/python.svg' width='30'/>
-<img align="center" src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/ae304581828fd3cbf2dfe1c202c791b8d312f678/images/git.svg' width='30'/> 
-<img align="center" src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/69aa4a04ab4e100773caa311c3513f8114fd5a32/images/github.svg' width='30'/> 
-<img align="center" src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/main/images/bash.png' width='30'/>
-</p>
+<div align="center">
+<img src="https://img.shields.io/badge/HTML-0A0A0A?style=for-the-badge&logo=html5&logoColor=orange">
+<img src="https://img.shields.io/badge/CSS-0A0A0A?style=for-the-badge&logo=css3&logoColor=blue">
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=yellow">
+<img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=blue">
+<img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=blue">
+<img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=green">
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=orange">
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=cyan">
+<img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=blue">
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <hr>
 
