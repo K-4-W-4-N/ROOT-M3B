@@ -9,15 +9,16 @@
 <p align="center"><strong>Languages and Tools</strong></p>
 
 <div align="center">
-<img src="https://img.shields.io/badge/HTML-0A0A0A?style=for-the-badge&logo=html5&logoColor=orange">
-<img src="https://img.shields.io/badge/CSS-0A0A0A?style=for-the-badge&logo=css3&logoColor=blue">
-<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=yellow">
-<img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=blue">
-<img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=blue">
-<img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=green">
-<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=orange">
-<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=cyan">
-<img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
@@ -42,6 +43,10 @@
 
 <p align="center">
 <a target="_blank" href="mailto:k4w4ndu4rt3@gmail.com">
-  <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+  <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+   
+<a target="_blank" href="Root#5556">
+  <img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
