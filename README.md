@@ -1,7 +1,7 @@
 ### <div align="center">🤖 Hello World, I'm ROOTM3B! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></div>
 
 <p align="center">
-   <img src="https://imgur.com/AVnECUD.png" alt="banner-root" border="0" width="45%">
+   <img src="https://imgur.com/AVnECUD.png" alt="banner-root" border="0" width="50%">
 </p>
 
 <hr>
